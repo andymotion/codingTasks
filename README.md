@@ -7,6 +7,9 @@ A suite of tests to verify the different endpoints returns 404 error.
 ## Table of Contents
 - Installation
 - Setup
+- Running the tests
+- Test results
+- Help
 
 ## Installation
 ### Requirements:
