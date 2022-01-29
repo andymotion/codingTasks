@@ -40,7 +40,9 @@ python -m pip install requests
 
 ## Running the tests
 <br />
-To run the test download the code via the following link: x,y,z COMPLETE
+To run the test download the code via the following link: https://github.com/andymotion/codingTasks/tree/skyAutomationTask
+
+Click on Code drop-down list and select "Download Zip"
 
 <br />
 
