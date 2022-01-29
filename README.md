@@ -46,6 +46,7 @@ Then install the requests module:
 
 python3 -m pip install requests
 
+Note: type "deactivate" in the terminal to exit Virtual Env
 ```
 
 ## Running the tests
